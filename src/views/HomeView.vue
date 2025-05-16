@@ -4,6 +4,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
+    <button class="btn btn-primary">One</button>
     <TheWelcome />
   </main>
 </template>
